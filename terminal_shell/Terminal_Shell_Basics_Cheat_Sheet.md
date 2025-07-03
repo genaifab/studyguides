@@ -1,4 +1,4 @@
-# 🧠 Terminal / Shell Basics Study Guide
+# 🧠 Terminal / Shell Basics Cheat Sheet
 
 This guide introduces essential terminal commands for navigating and managing your system via the command line. It assumes a Unix-style shell (macOS Terminal, Linux, PowerShell Core, or Git Bash). Where necessary, Windows-specific notes are called out.
 

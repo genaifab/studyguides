@@ -1,4 +1,4 @@
-# 🧠 Ollama Basics Study Guide
+# 🧠 Ollama Basics Cheat Sheet
 
 This guide covers the essential commands for getting started with [Ollama](https://ollama.com), a tool that lets you run large language models locally on your machine.
 
