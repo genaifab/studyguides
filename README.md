@@ -1,4 +1,6 @@
-#  🧠 Study Guides for Meetup Groups: GenAI for Absolute Beginners and Vibe Code AI for Absolute Beginners
+#  🧠 Study Guides for Meetup Groups
+
+### GenAI for Absolute Beginners and Vibe Code AI for Absolute Beginners
 
 The study guides will correspond to the skillsets.
 
