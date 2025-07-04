@@ -1,6 +1,12 @@
 #  🧠 Study Guides 
 
-This repository contains Study Guides for Generative AI for Absolute Beginners and Vibe Code AI for Absolute Beginners. The study guides follow the Skill Maps depicted below.
+This repository contains Study Guides for Generative AI for Absolute Beginners and Vibe Code AI for Absolute Beginners. Please refer to the Skill Maps below as a guide.
+
+
+Currently available are the following Cheat Sheets:
+
+- [Ollama Basics](ollama/Ollama_Basics_Cheat_Sheet.md)
+- [Terminal Shell Basics](terminal_shell/Terminal_Shell_Basics_Cheat_Sheet.md)
 
 
 
