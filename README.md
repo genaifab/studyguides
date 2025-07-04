@@ -1,21 +1,20 @@
-#  🧠 Study Guides for Meetup Groups
+#  🧠 Study Guides 
 
-### GenAI for Absolute Beginners and Vibe Code AI for Absolute Beginners
+This repository contains Study Guides for Generative AI for Absolute Beginners and Vibe Code AI for Absolute Beginners. The study guides follow the Skill Maps depicted below.
 
-The study guides will correspond to the skillsets.
+## Generative AI for Absolute Beginners - LLM Tools Skill Map (Level I)
+
+
+
 
 # Beginner Skill Sets: Gen AI for Absolute Beginners
 
-- Ollama
-- Prompt Engineering
-- Model APIs
-- Hugging Face Hub
-- Cloud Deployment
+![LLM Tools Level One](images/llmtools_levelone.png)
+
+
 
 # Beginner Skill Sets: Vibe Code AI for Absolute Beginners
-- VS Code
-- UV
-- Terminal Shell
-- Git
-- Github
+
+![Dev Tools Level One](images/devtools_levelone.png)
+
 
