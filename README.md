@@ -9,7 +9,7 @@ This repository contains Study Guides for Generative AI for Absolute Beginners a
 
 
 
-# Vibe Code AI for Absolute Beginners - Dev Tools Skill Map (Level I)
+## Vibe Code AI for Absolute Beginners - Dev Tools Skill Map (Level I)
 
 ![Dev Tools Level One](images/devtools_levelone.png)
 
